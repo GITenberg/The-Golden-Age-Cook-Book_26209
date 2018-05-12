@@ -1,0 +1,27 @@
+_repo: The-Golden-Age-Cook-Book_26209
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dwight, Henrietta Latham
+    gutenberg_agent_id: '31866'
+    url: http://www.gutenberg.org/2009/agents/31866
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2008-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26209'
+  lccn: 07035967
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vegetarian cooking'
+- !lcc 'TX'
+- !lcsh 'Cooking'
+title: The Golden Age Cook Book
+url: http://www.gutenberg.org/ebooks/26209
